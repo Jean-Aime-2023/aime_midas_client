@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "652658334430",
+    "project_id": "mijo-5cf09",
+    "storage_bucket": "mijo-5cf09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652658334430:android:1052cb89667592b4d6404f",
+        "android_client_info": {
+          "package_name": "com.example.mijo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652658334430-0t5pgq3prcpgo6r2q5amt2egdp9iqbpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylFmOC5k70_zuo3jgzGx-NLxv490tAOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652658334430-0t5pgq3prcpgo6r2q5amt2egdp9iqbpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652658334430-b9uj5vh79bp8rtsm9ulmsftof1l9pud2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mijo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
